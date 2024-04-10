@@ -57,14 +57,6 @@ And click on `Preferences: Open User Settings`. In the `User` tab, find `> Exten
 
 After opening `settings.json`, copy and paste this JSON: [HERE](https://github.com/mavinii/Minimalist-VSCode/blob/main/settings.json), restart your VSCode and it should good to go.
 
-## Copyright Disclaimer:
-
-- [JetBrains Mono developers​](https://www.jetbrains.com/lp/mono/)
-- [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
-- [Symbols](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
-- [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
-- [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
 ---
 
-<strong>Built with 💙 by [@Eduardo Dias](https://www.linkedin.com/in/eduardxdc/)</strong>
+<strong>Created by [@Eduardo Dias](https://www.linkedin.com/in/eduardxdc/)</strong>
